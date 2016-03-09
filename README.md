@@ -1,4 +1,4 @@
-== IMG Keepr
+## IMG Keepr
 
 This is a simple personal image hosting app built with these technologies:
 
@@ -8,7 +8,7 @@ This is a simple personal image hosting app built with these technologies:
 
 * **PostgreSQL** *database* ✅
 
-* **Heroku** *deployment*✅
+* **Heroku** *deployment* ✅
 
 * [**Sendgrid**](https://app.sendgrid.com) *sending emails in production* ✅
 
@@ -17,3 +17,5 @@ This is a simple personal image hosting app built with these technologies:
 * Test framework ❌
 
 * **Sidekiq** *background processing* ❌
+
+
